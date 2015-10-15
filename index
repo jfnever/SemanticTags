@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My first webpage about pets</title>
+</head>
+
+<body>
+<header>
+        <h1>Why Do We Need Pets</h1>
+        <h2>do you have a pet?</h2>
+    <p>I like dogs!</p>
+</header>
+<nav>
+    <a href="#">DOGS</a>
+    <a href="#">CATS</a>
+    <a href="#">Blizzards</a>
+    <a href="#">Other</a>
+</nav>
+
+<article>
+    <h3>What kind of dogs do you have?</h3>
+    <p>
+        Dogs are highly variable in height and weight.
+    </p>
+    <img alt="heavy dogs" src="image.jpg"/>
+    <p>Don't forget to buy them <mark>dog food</mark></P>
+    <aside>
+        <h4>Petsmart</h4>
+        <p>See <a href="#">Petsmart</a> for details</p>
+        <p>Open at <time>10:00</time> every morning</p>
+    </aside>
+</article>
+<div>
+    <p>my favorite dogs</p>
+    <ul>
+        <li>Peking Dog</li>
+        <li>Akita Dog</li>
+        <li>The Labrador Retriever</li>
+    </ul>
+
+</div>
+<section>
+    <p>want to watch my pet play?</p>
+    <embed src="cinderella.swf">
+</section>
+
+<footer>
+    <p>Posted by: FJ</p>
+    <address>
+        Written by <a href="mailto:jfnever@hotmail.com">Feng Jiang</a>.<br/>
+        Visit us at:<br/>
+        Lyndhurst ln,plano<br/>
+        Texas<br/>
+        USA
+    </address>
+</footer>
+
+</body>
+</html>
